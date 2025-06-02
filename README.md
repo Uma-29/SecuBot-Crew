@@ -21,7 +21,7 @@ Git
 Installation
 Clone the repository
 
-git clone https://github.com/Half-Silver/CyberGuardAI.git
+git clone https://github.com/Uma-29/SecuBot-Crew.git
 cd CyberGuardAI
 Set up the Backend
 
